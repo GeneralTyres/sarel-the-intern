@@ -1,3 +1,5 @@
+<img width="1439" height="952" alt="Screenshot from 2026-01-30 13-12-32" src="https://github.com/user-attachments/assets/99a509f9-c300-40b4-b19c-001c40b556b0" />
+
 # Sarel the Intern
 
 AI-powered development agents for automating code improvements and repetitive tasks.
